@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import pdf from "../pdf/resume.pdf";
+import pdf from "../pdf/Priyankori_saha_cv.pdf";
 import hero from "./data/hero.json";
 import Typed from "typed.js";
 
@@ -8,10 +8,10 @@ const Home = () => {
   useEffect(() => {
     const options = {
       strings: [
-        "Welcome to my profile",
-        "My Name is John Doe",
-        "I'm full stack developer",
-        "Androide Developer (React Native)",
+        "Welcome to my PortFolio",
+        "My Name is Priyankori Saha",
+        "I'm a Web developer",
+        
       ],
       typeSpeed: 50,
       backSpeed: 50,
@@ -33,7 +33,7 @@ const Home = () => {
 
           <a
             href={pdf}
-            download="Resume.pdf"
+            download="Priyankori_saha_cv.pdf"
             className="btn btn-outline-warning my-3"
           >
             Download Resume
