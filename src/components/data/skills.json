@@ -18,5 +18,18 @@
   {
     "title": "Node",
     "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+    {
+    "title": "Express",
+    "imageSrc": "skills/express.png"
   }
+
 ]
