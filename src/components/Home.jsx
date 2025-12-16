@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import pdf from "../pdf/Priyankori_saha_Resume.pdf";
+// PDF is served from `public/pdf` — reference via absolute path in href
 import hero from "./data/hero.json";
 import Typed from "typed.js";
 
@@ -32,7 +32,7 @@ const Home = () => {
           <h1 ref={typedRef}></h1>
 
           <a
-            href={pdf}
+            href="/pdf/Priyankori_saha_Resume.pdf"
             download="Priyankori_saha_Resume.pdf"
             className="btn btn-outline-warning my-3"
           >
