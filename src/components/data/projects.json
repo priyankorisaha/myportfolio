@@ -2,9 +2,9 @@
     "key": 1,
     "title": "Expense Tracker",
     "imageSrc": "/assets/project/expensetrackerlogo.png",
-    "description": "A full-stack Expense Tracker web app built with React, Express, MongoDB, and JavaScript to manage and visualize personal income and expenses.",
+    "description": "Expense Tracker app using MERN for managing personal finances",
     "demo": "https://expense-tracker-fullstack-iota.vercel.app/",
-    "source": "https://github.com/priyankorisaha/weather_app"
+    "source": "https://github.com/priyankorisaha/expense-tracker-frontend.git"
   },
   {
     "key": 1,
