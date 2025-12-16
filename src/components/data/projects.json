@@ -2,7 +2,7 @@
   {
     "key": 1,
     "title": "Weather App",
-    "imageSrc": "/public/assets/project/1000328265.png",
+    "imageSrc": "/assets/project/1000328265.png",
     "description": "This is a project made with Javascript API.",
     "demo": "https://weather-app-topaz-phi.vercel.app/",
     "source": "https://github.com/priyankorisaha/weather_app"
@@ -10,7 +10,7 @@
   {
     "key": 2,
     "title": "Dictionary App",
-    "imageSrc": "/public/assets/project/1000328266.png",
+    "imageSrc": "/assets/project/1000328266.png",
     "description": "This is a project made with Javascript API.",
     "demo": "https://dictionary-app-tawny-alpha.vercel.app/",
     "source": "https://github.com/priyankorisaha/dictionary_app"
@@ -19,7 +19,7 @@
   {
     "key": 3,
     "title": "Hero Section",
-    "imageSrc": "/public/assets/project/1000328272.png",
+    "imageSrc": "/assets/project/1000328272.png",
     "description": "This is a project made with HTML and CSS.",
     "demo": "https://ecess-hero-section.vercel.app/",
     "source": "https://github.com/priyankorisaha/ecess_hero_section"
