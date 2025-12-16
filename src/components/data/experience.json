@@ -12,6 +12,18 @@
   ],
 
     "imageSrc": "company/Sih_logo.png"
-  }
+  },
+  {
+  "Id": 2,
+  "event": "LeetCode Coding Practice",
+  "participationPeriodStart": "Ongoing",
+  "eventLocation": "Online",
+  "highlights": [
+    "Solved 180+ coding problems across Data Structures and Algorithms",
   
+    "Improved problem-solving skills and coding efficiency through regular practice"
+  ],
+  "imageSrc": "company/LeetCode2.png"
+}
+
 ]
